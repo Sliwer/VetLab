@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">VetLab</string>
+
+    <string name="loginTitleText">Login</string>
+    <string name="loginEmailHint">Email</string>
+    <string name="loginPasswordHint">Password</string>
+    <string name="loginBtnText">Login</string>
+    <string name="loginNewAccount">Need a new account ?</string>
+
+    <string name="registerFirstNameHint">First Name</string>
+    <string name="registerLastNameHint">Last Name</string>
+    <string name="registerEmailHint">yourname@email.com</string>
+    <string name="registerPasswordHint">Password</string>
+    <string name="registerPhoneHint">Phone Number</string>
+    <string name="registerBtn">Register</string>
 </resources>

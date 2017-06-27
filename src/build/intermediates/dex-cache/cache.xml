@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_97be7e9084654d62257064bd55ff1c56c2134043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/0cef035b0f336bcb07ed19c2dc5391d6a659a0a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2088905c3fc56d8ed90311d83197bce85aa091bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/13e0dbd22ed7bc2aea6d080c05afb0c83b020b0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5fe847e47692c8c941076c52f3e432d7156bdb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/b0fa026960126375d1668a972da9dec4030bfc1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f73ba9696ab94117f2b394906a86dc554ad479da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/83b8b2e84614241b92671604863b29c9982dda71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fdc2538b38947ad84d65f063f6204ef4172da55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/f7f2ff70f292d3ee0b71ff0cf569e0f17d75a7d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f639a368e21cad3fefb8a821c9d7c55294d38ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/54ff40bc62d59b9a14b5946c7aa2720b1985af97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec390e7900e4aa1e84e6b0695e9044abc9a4408a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/d8982a654db0aca6d3f66b4836ce7b0188bc422c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4392f4a89eb92f91d4acf739041fa99a936bb423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_002c8869c39a1c275b4fde62dee0b27eed46084d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/a2cc2fac24f8dec8884488ed1227d7e8242c68ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff35d43ca9cfa96fb321d945b24020b376a022a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/44032ed1cffd9167bd2e6459d2f36b43494ad40a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd10c627530e9ff048c9e57d59fe870071f40401/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/ca71ef182eaf25da7a737299c411a63b55a92246/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4c79bec8e0b26b488829ac44e1afb9fdcaf1cad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/eb195b27245ee32696afda83b85ac3f359b11702/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1353d926c35e2f0f260a863815f2c5e66c4f70ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/bc9cb649c1bd4652df794567cd739dc426645a35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d8b992028e19e3ca9bb40ab37498e8fae124351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/ea8bf2cb1bb9b9f1a5042a5661149a5c9109f0e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09018022ad5405e7f71740730099c575af623aea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/aae12e22b0d61b31816650a3f49e94e3bca54065/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be8fa6667ba3730f728066d583f1ec1f4ad96c33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/1c6a5a4f5da4c439e76f13585829f29bdf565e74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8ee891ec3bd0c0f4a9ce14c59df700559db8672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/52967ccd39fa3665544488d1afc7f13e51214e85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6793a02829e44bd770528150bbb51a91b5c302e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/c4564f6cc41a3d4b37a02800f24a76fd531ca2a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efd3feaeda5c7bda650384d31134d80cb26bc2b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0c3373309426c2687a69d8fd8ea91c461048364a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/9d7a2634d8f98da901f528c0bcbddfd9f8d556a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7085b94e0e6cd210193d01b56c90fd9eff119ed3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/5e09b87c5d58dbea91ef164a34df95d2b58030e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_912307e6b5258bbeb0749879aff71ecad1086ca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/dfa78cf805d4d7fd48f596418f1ccd7298562f2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5b9852cecd6676c95ce829718e61c4b5a14003a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/.android/build-cache/eff24b701f9d27c9fb4448e58b0fd3108ea90ddf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5eb75c983247ab9f05a5452fef30dd8f736bac3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ebcdcee4957406897acdc39c47193f6f343c579">
+        <dex dex="/home/sliwer/AndroidStudioProjects/VetLab/src/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9872400ef711cfdf3f15bfba252c275727a58ff/classes.dex" />
+    </item>
+
+</items>
